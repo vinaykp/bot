@@ -1,0 +1,6 @@
+google-adk
+streamlit
+sqlalchemy
+fastapi
+uvicorn
+pydantic
