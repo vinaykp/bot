@@ -50,6 +50,12 @@ python main.py
 
 The server will start on `http://0.0.0.0:9999`
 
+## Sample Promts
+
+- I bought a "Harry Potter" book for 20$ to my collection.
+- add a weapon AK-47 bought for 500$
+
+
 ## API Endpoints
 
 - `GET /health`: Health check endpoint
